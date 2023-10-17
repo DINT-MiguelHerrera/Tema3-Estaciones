@@ -6,6 +6,7 @@
     <RootNamespace>Tema3_Estaciones</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>IconoEstaciones.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,6 +14,10 @@
     <None Remove="otoño.jpg" />
     <None Remove="primavera.jpg" />
     <None Remove="verano.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="IconoEstaciones.ico" />
   </ItemGroup>
 
   <ItemGroup>

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema3_Estaciones"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Las 4 estaciones" Height="450" Width="800">
     <UniformGrid Rows="3" Columns="2" FirstColumn="1" >
         <UniformGrid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
